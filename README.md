@@ -7,6 +7,6 @@ mass_case_description_train_set.csv is the metadata for the training set
 
 mass_case_description_test_set.csv is the metadata for test set
 
-Run the notebook from the first line, modify the paths in the code to where the metadata and image files are present
+Run the notebook from the first line, modify the paths in the code cell to where the metadata and image files are present
 
 Create a folder named "distentout" in the path where the ipynb is running
