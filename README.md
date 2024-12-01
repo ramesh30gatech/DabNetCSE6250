@@ -6,3 +6,5 @@ The csv folder contains the metadata for the image files
 mass_case_description_train_set.csv is the metadata for the training set
 
 mass_case_description_test_set.csv is the metadata for test set
+
+Run the notebook from the first line, modify the paths in the code to where the metadata and image files are present
