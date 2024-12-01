@@ -10,3 +10,5 @@ mass_case_description_test_set.csv is the metadata for test set
 Run the notebook from the first line, modify the paths in the code cell to where the metadata and image files are present
 
 Create a folder named "distentout" in the path where the ipynb is running
+
+DABNet.pth is the pretrained model for 100 epochs with 1000+ images and 260+ validation images
